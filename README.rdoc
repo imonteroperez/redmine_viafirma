@@ -1,0 +1,22 @@
+== Redmine Viafirma Plugin
+
+Redmine plugin to support Viafirma authentication. For more information about Viafirma go to http://www.viafirma.com
+
+== Getting the plugin
+
+A copy of the plugin can be at {Github}[http://github.com/imonteroperez/redmine_josso].
+
+== Install
+
+1. Follow the Redmine plugin installation steps at: http://www.redmine.org/wiki/redmine/Plugins
+2. Configure the plugin in config/viafirma_config.yml
+3. Download an install the viafirma-client-php in an Apache server, and replace the files contained at config/viafirma-client-php/
+4. Restart your Redmine web servers (e.g. mongrel, thin, mod_rails)
+
+== License
+
+This plugin is licensed under the GNU GPL v2.  See LICENSE.txt for details.
+
+== Project help
+
+If you need help you can contact me by email: ildefonso_dot_montero_at_gmail_dot_com

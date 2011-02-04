@@ -1,0 +1,11 @@
+development:
+    enabled: true
+    url: http://10.231.55.54/viafirma-client-php/
+test:
+    enabled: true
+    url: http://10.231.55.54/viafirma-client-php/
+production:
+    enabled: true
+    url: http://10.231.55.54/viafirma-client-php/
+
+	
